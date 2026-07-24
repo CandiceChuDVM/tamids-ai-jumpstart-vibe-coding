@@ -1,6 +1,6 @@
 # TAMIDS AI Jumpstart: Vibe Coding
 
-Use **Claude Code** for free with your **TAMU AI Chat** account.
+Use **Claude Code** with your **TAMU AI Chat** account (daily budget $10.0).
 
 This repository contains the setup instructions for the TAMIDS AI Jumpstart vibe coding session. By pointing Claude Code at the Texas A&M AI Chat API endpoint, you can run Claude Code inside VS Code without an Anthropic subscription and without logging in.
 
