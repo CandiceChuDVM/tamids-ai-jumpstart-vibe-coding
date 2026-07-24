@@ -54,7 +54,7 @@ Installing first means the `~/.claude/` folder and a starter `settings.json` wil
 
 ## Step 3. Open your Claude Code settings file
 
-Open the VS Code terminal (`Ctrl + ` ` on Windows, `Cmd + ` ` on Mac, or **Terminal → New Terminal**), then paste and run:
+Open the VS Code terminal (`Ctrl + ` `), or **Terminal → New Terminal**), then paste and run:
 
 ```bash
 code ~/.claude/settings.json
