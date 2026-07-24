@@ -26,7 +26,7 @@ Estimated setup time: 10 to 15 minutes.
 1. Go to [https://tamu.ai/](https://tamu.ai/) and log in with your NetID.
 2. Click your avatar (top right), then **Settings** → **Account** → **API keys**.
 3. Create a key and copy it. It looks like `sk-...`.
-4. Keep it somewhere handy for Step 4. **NEVER** share it with others or post it online.
+4. Keep it somewhere handy for Step 4. **NEVER share it with others or post it online.**
 
 Documentation for TAMU AI Chat, including the API docs, lives at [https://docs.tamus.ai/](https://docs.tamus.ai/).
 
