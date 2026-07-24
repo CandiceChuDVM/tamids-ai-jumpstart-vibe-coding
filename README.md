@@ -89,7 +89,7 @@ Replace `<YOUR TAMU AI CHAT API KEY>` (including the angle brackets) with the ke
   "env": {
     "ANTHROPIC_BASE_URL": "https://chat-api.tamu.ai/api",
     "ANTHROPIC_AUTH_TOKEN": "<YOUR TAMU AI CHAT API KEY>",
-    "ANTHROPIC_MODEL": "protected.Claude Opus 4.8"
+    "ANTHROPIC_MODEL": "protected.Claude Sonnet 4.6"
   },
   "model": "haiku"
 }
