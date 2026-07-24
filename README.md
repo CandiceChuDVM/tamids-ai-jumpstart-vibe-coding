@@ -44,7 +44,7 @@ Download and install Visual Studio Code: [https://code.visualstudio.com/](https:
 
 ## Step 2. Install the Claude Code extension
 
-In VS Code, open the Extensions panel (`Ctrl + Shift + X` on Windows, `Cmd + Shift + X` on Mac), search for **Claude Code**, and install it.
+In VS Code, open the Extensions panel ( `Ctrl + Shift + X` on Windows, `Cmd + Shift + X` on Mac), search for **Claude Code**, and install it.
 
 Installing first means the `~/.claude/` folder and a starter `settings.json` will already exist when you get to the next step.
 
