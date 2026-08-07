@@ -1,4 +1,4 @@
-# TAMIDS AI Jumpstart: Vibe Coding
+# Set up Claude Code API through TAMU AI Chat
 
 Use **Claude Code** with your **TAMU AI Chat** account (daily budget $10.0).
 
